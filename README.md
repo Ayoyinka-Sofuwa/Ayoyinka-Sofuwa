@@ -2,6 +2,9 @@
  
  I’m @Ayoyinka-Sofuwa
 
+### My stats & badges 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ayoyinka-Sofuwa&show_icons=true&count_private=true)
+
 - 👀 I’m interested in Machine learning and its diverse potentials in different industries, Health and Education topping the list.
 - 🌱 I’m currently learning programming with python and using Cloud platforms to even make machine learning processes and operations, easier and less complicated to use.
 - 💞️ I’m looking to collaborate on projects that are based on human related data.
